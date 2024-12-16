@@ -1,0 +1,22 @@
+{
+  "name": "instruction_assignment",
+  "version": "1.0.0",
+  "description": "This is nodejs project to demonstrate the solution for the given requirement",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravinsonawane/instruction_assignment.git"
+  },
+  "author": "Pravin Sonawane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pravinsonawane/instruction_assignment/issues"
+  },
+  "homepage": "https://github.com/pravinsonawane/instruction_assignment#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
