@@ -4,7 +4,8 @@
   "description": "This is nodejs project to demonstrate the solution for the given requirement",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/pravinsonawane/instruction_assignment#readme",
   "dependencies": {
     "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
